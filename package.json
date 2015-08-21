@@ -1,0 +1,27 @@
+{
+  "name": "es6-gulp-boilerpate",
+  "version": "1.0.0",
+  "description": "Get up and running with ES6 and Gulp",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/morriswchris/es6-gulp-boilerplate.git"
+  },
+  "author": "Chris Morris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/morriswchris/es6-gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/morriswchris/es6-gulp-boilerplate",
+  "devDependencies": {
+    "browser-sync": "^2.8.2",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2"
+  }
+}
